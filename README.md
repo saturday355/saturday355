@@ -1,16 +1,21 @@
-## Hi there 👋
+## About Me
 
-<!--
-**saturday355/saturday355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm **Prayush Raj Jha**, a passionate **learner** with a deep interest in **computer science and physics**. I love exploring new technologies, collaborating with diverse teams, and constantly learning. 
 
-Here are some ideas to get you started:
+### 👨‍💻 Career Goals
+My goal is to grow as a professional in the **STEM field** by working on innovative projects, expanding my knowledge, and contributing to the tech community. I am particularly interested in **artificial intelligence and applied science** and would love to specialize in **the blend of these two fields**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Interests
+- **CHESS**
+- **VOLLEYBALL**
+- **TABLE TENNIS**
+
+### 🛠️ Technologies & Tools
+- **Languages**: Python, C++
+- 
+### Let's Connect!
+Feel free to reach out to me on instagram or facebook if you'd like to collaborate or chat about **anything**!
+
+---
+
+Thank you for visiting my profile! 😄
