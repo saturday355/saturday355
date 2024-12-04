@@ -16,6 +16,10 @@ My goal is to grow as a professional in the **STEM field** by working on innovat
 ### Let's Connect!
 Feel free to reach out to me on instagram or facebook if you'd like to collaborate or chat about **anything**!
 
+### Technical skills
+- SEO
+- Coding
+
 ---
 
 Thank you for visiting my profile! 😄
